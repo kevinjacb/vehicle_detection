@@ -10,7 +10,7 @@
     -> Raspberry pi doesn't have much computation power and therefore, inferences are much slower than that of a smartphone
     -> Faster inference can be obtained with the help of tflite models
 
-## Usage:
+## Usage
     
     By default the program uses a webcam at source 0. To change the source execute:
         ```python detect.py --source 0/1/2```
